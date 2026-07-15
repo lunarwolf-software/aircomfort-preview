@@ -1,0 +1,6 @@
+# Aircomfort Airconditioning — private website preview.
+# While in preview, we discourage indexing. Remove the Disallow rule
+# (and update sitemap URL) when the site goes live on its final domain.
+User-agent: *
+Disallow: /
+

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a5f84"/>
+      <stop offset="1" stop-color="#0e7fae"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.14" stroke-width="26" stroke-linecap="round">
+    <path d="M860 150h240"/>
+    <path d="M820 230h280"/>
+    <path d="M900 310h200"/>
+  </g>
+  <text x="90" y="300" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="76" font-weight="700" fill="#ffffff">Aircomfort Airconditioning</text>
+  <text x="90" y="380" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="40" fill="#cfe9f5">Installation · Repairs · Servicing · Supply · Portable AC</text>
+  <text x="90" y="470" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="34" fill="#f59e0b" font-weight="600">Kempton Park, Gauteng</text>
+</svg>

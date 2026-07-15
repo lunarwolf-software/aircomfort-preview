@@ -1,0 +1,16 @@
+{
+  "name": "Aircomfort Airconditioning",
+  "short_name": "Aircomfort",
+  "description": "Air-conditioning installation, repairs, servicing, supply and portable AC in Kempton Park.",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#f7fbfd",
+  "theme_color": "#0e7fae",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
